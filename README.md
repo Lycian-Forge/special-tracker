@@ -1,6 +1,6 @@
 # SPECIAL Tracker
 
-> A gamified personal development tracker based on Fallout's SPECIAL attribute system, powered by AI for intelligent activity classification.
+> A gamified personal development tracker based on SPECIAL attribute system, powered by AI for intelligent activity classification.
 
 [![React Native](https://img.shields.io/badge/React%20Native-0.72-blue.svg)](https://reactnative.dev/)
 [![Expo](https://img.shields.io/badge/Expo-49.0-black.svg)](https://expo.dev/)
